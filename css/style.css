@@ -1,0 +1,107 @@
+.footer
+{
+    border: 0;
+    border-radius: 0;
+    background-color: lightyellow;
+    border-top: 2px dotted brown;
+    text-align: center;
+}
+span
+{
+    font-weight: bold;
+    font-style: italic;
+    color: red;
+}
+body
+{
+    background-color: lightyellow;
+}
+div
+{
+    background-color: rgb(252, 197, 152);
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 1px solid brown;
+    margin-bottom: 1%;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+h1
+{
+    color: red;
+}
+h2:hover
+{
+    color: purple;
+}
+h1,h2,h3
+{
+    text-align: center;
+}
+.cursief
+{
+    font-style: italic;
+    font-weight: normal;
+    color: black;
+}
+a
+{
+    display: block;
+    margin: 20px;
+}
+.navigatie
+{
+    border: 0;
+    border-radius: 0;
+    background-color: lightyellow;
+    border-bottom: 2px dotted brown;
+}
+.navigatie ul
+{
+    font-size: 1.5rem;
+    list-style-image: url('../img/listIcon.png');
+}
+ul li a
+{
+    text-decoration: none;
+    font-weight: bold;
+    color: red;
+}
+.logo
+{
+    text-align: center;
+}
+.heroPicLeft
+{
+    float: left;
+}
+.heroPicRight
+{
+    float: right;
+}
+#cover8man
+{
+    width: 200px;
+    padding:10px;
+    padding-right: 25px;
+}
+#coverGreenLama
+{
+    padding: 25px;
+    height: 275px;
+    padding-top: 15px;
+    padding-bottom:10px;
+}
+.loskoppelen
+{
+    clear: both;
+}
+#coverStardust
+{
+    width: 40%;
+    padding: 20px;
+}
+.stardustDiv
+{
+    overflow: hidden;
+}
